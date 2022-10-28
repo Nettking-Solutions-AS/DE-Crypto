@@ -1,4 +1,4 @@
-# DE-Crypto
+# DE-Crypto-Web
 
 DE-Crypto is a webapp that allows you to create a crypto wallet, add/customize currencies, perform transactions, check balances, charts, and much more. It has a sleek design and a modern appearance.
 
