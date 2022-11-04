@@ -1,3 +1,22 @@
+.new_account_text {
+  font-size: 15px;
+  line-height: 21px;
+  color: #ffffff;
+  opacity: 0.7;
+  text-align: center;
+  margin-top: 45px;
+}
+
+.new_account_link {
+  text-decoration: none;
+  color: #ffffff;
+}
+
+.new_account_link:hover {
+  color: #ffffff
+}
+
+/* LEGACY */
 @import "https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap";
 /* .zl_wallets_page .zl_add_currency_inner_content.zl_add_litecoin_currency:hover .zl_add_currency_icon_chart .zl_currency_icon svg path:first-child,
 .zl_wallets_page .zl_add_currency_inner_content.zl_add_litecoin_currency.active .zl_add_currency_icon_chart .zl_currency_icon svg path:first-child,
@@ -523,12 +542,12 @@ table td {
   padding: 165px 15px;
 }
 .zl_login_section .zl_login_content.container {
-  max-width: 1240px;
+  max-width: 800px;
 }
 .zl_login_section .zl_login_content {
   border: 1px solid #848eae26;
   border-radius: 10px;
-  padding: 25px 25px 94px;
+  padding: 25px 25px 25px;
 }
 .zl_login_section .zl_login_content .zl_login_heading_text {
   text-align: center;
@@ -551,7 +570,9 @@ table td {
   margin-bottom: 17px;
 }
 .zl_login_section .zl_login_content .zl_login_row {
-  margin: 0 -11px;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 15px;
 }
 .zl_login_section .zl_login_content .zl_login_row .zl_login_col_3 {
   padding: 0 11px 22px;
@@ -583,7 +604,8 @@ table td {
 .zl_login_section .zl_login_content .zl_login_input_content {
   border: 1px solid #848eae26;
   border-radius: 10px;
-  padding: 17px 22px;
+  padding: 15px;
+  width: 500px;
 }
 .zl_login_section .zl_login_content .zl_login_input_content::before {
   content: "";
@@ -626,7 +648,7 @@ table td {
   opacity: 0;
 }
 .zl_login_section .zl_login_content .zl_login_btn {
-  padding-top: 60px;
+  padding-top: 20px;
   display: flex;
   flex-direction: column;
   align-items: center;
