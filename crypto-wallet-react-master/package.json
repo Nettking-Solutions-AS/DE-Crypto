@@ -6,7 +6,7 @@
     "@reduxjs/toolkit": "^1.6.2",
     "@tatumio/tatum": "^1.37.4",
     "@testing-library/jest-dom": "^5.15.0",
-    "@testing-library/react": "^11.2.7",
+    "@testing-library/react": "^12.1.5",
     "@testing-library/user-event": "^12.8.3",
     "apexcharts": "^3.26.3",
     "async": "^3.2.3",
