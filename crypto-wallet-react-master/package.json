@@ -33,7 +33,7 @@
     "sass": "^1.56.0",
     "styled-components": "^5.3.3",
     "web-vitals": "^3.0.4",
-    "webpack": "^5.74.0"
+    "webpack": "^5.75.0"
   },
   "scripts": {
     "start": "react-scripts start",
