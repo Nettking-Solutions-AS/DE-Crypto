@@ -14,7 +14,7 @@
     "bip39": "^3.0.4",
     "bootstrap": "^5.2.2",
     "jwt-decode": "^3.1.2",
-    "moralis": "^2.7.1",
+    "moralis": "^2.10.2",
     "node-sass": "^7.0.3",
     "patch-package": "^6.4.7",
     "qrcode.react": "^3.1.0",
